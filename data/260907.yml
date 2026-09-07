@@ -5,13 +5,13 @@ about:
   head: fb97af8
   archived: false
   latestVersion: "grok-dev@1.1.7"
-  collectedAt: 2026-09-07T05:51:50Z
+  collectedAt: 2026-09-07T18:39:39Z
 timeline:
   created: 2025-07-14
   lastCommit: 2026-05-15
   lastRelease: 2026-05-15
 popularity:
-  star: 3460
+  star: 3461
   watcher: 31
   fork: 420
   release: 49
@@ -80,7 +80,7 @@ total:
   commit: 173
 ---
 path: /home/runner/.x-repo/github.com/superagent-ai/grok-cli
-collectedAt: 2026-09-07T05:51:51Z
+collectedAt: 2026-09-07T18:39:40Z
 loc:
   TypeScript:
     code: 21222
@@ -116,7 +116,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:51:51+00:00
+  collectedAt: 2026-09-07T18:39:41+00:00
   platform:
     darwin/arm64:
       name:  grok-darwin-arm64
