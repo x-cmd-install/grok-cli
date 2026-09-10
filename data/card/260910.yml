@@ -7,7 +7,7 @@ about:
   latestVersion: "grok-dev@1.1.7"
   latestRelease: "grok-dev@1.1.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:56:06Z
+  collectedAt: 2026-09-10T21:50:54Z
 timeline:
   created: 2025-07-14
   lastCommit: 2026-05-15
@@ -84,7 +84,7 @@ total:
   commit: 173
 ---
 path: /home/runner/.x-repo/github.com/superagent-ai/grok-cli
-collectedAt: 2026-09-10T17:56:08Z
+collectedAt: 2026-09-10T21:50:56Z
 loc:
   TypeScript:
     code: 21222
