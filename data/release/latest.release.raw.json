@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 117037505,
       "digest": "sha256:e6780d2e6da4b406e862f483fb4196fec56f1df372243d5cbf93cdbfc7b04a5f",
-      "download_count": 3697,
+      "download_count": 3698,
       "created_at": "2026-05-15T10:19:55Z",
       "updated_at": "2026-05-15T10:20:01Z",
       "browser_download_url": "https://github.com/superagent-ai/grok-cli/releases/download/grok-dev%401.1.7/grok-linux-x64"
