@@ -37,7 +37,7 @@ Total: **28,458** lines of code across **156** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,468 · **Forks**: 419 · **Open issues**: 132 · **Contributors**: 21
+- **Stars**: 3,470 · **Forks**: 420 · **Open issues**: 132 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -80,4 +80,4 @@ Install metadata for grok-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:53:38Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:07:35Z._
