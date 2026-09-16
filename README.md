@@ -41,18 +41,18 @@ Total: **28,458** lines of code across **156** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 114 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 18 · **Commits**: 173
+- **Releases**: 49 · **Merged PRs**: 114 · **Open PRs**: 15 · **Closed issues**: 114 · **Open issues**: 18 · **Commits**: 173
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 0 | 0 | 6 | 0 | 3 | 0 |
-| 90d | 2026-06-17 | 0 | 0 | 11 | 1 | 5 | 0 |
-| last180d | 2026-03-19 | 26 | 62 | 14 | 31 | 17 | 56 |
-| 360d | 2025-09-20 | 29 | 85 | 14 | 68 | 17 | 115 |
-| last720d | 2024-09-25 | 49 | 114 | 14 | 114 | 18 | 173 |
+| 30d | 2026-08-17 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 0 | 0 | 7 | 0 | 3 | 0 |
+| 90d | 2026-06-18 | 0 | 0 | 12 | 1 | 5 | 0 |
+| last180d | 2026-03-20 | 26 | 55 | 15 | 29 | 17 | 56 |
+| 360d | 2025-09-21 | 29 | 84 | 15 | 68 | 17 | 115 |
+| last720d | 2024-09-26 | 49 | 114 | 15 | 114 | 18 | 173 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for grok-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:23:14Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:21:26Z._
