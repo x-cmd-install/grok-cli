@@ -4,7 +4,7 @@
 
 An open-source coding agent for the Grok API
 
-![grok-cli](https://repo.x-cmd.io/grok-cli.svg)
+[![x-cmd/install — grok-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/grok-cli.svg)](https://x-cmd.com/install/grok-cli)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **28,458** lines of code across **156** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,476 · **Forks**: 422 · **Open issues**: 132 · **Contributors**: 21
+- **Stars**: 3,477 · **Forks**: 421 · **Open issues**: 132 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **28,458** lines of code across **156** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 7 | 0 | 3 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 12 | 1 | 5 | 0 |
-| last180d | 2026-03-22 | 24 | 50 | 15 | 27 | 16 | 56 |
-| 360d | 2025-09-23 | 29 | 84 | 15 | 67 | 17 | 115 |
-| last720d | 2024-09-28 | 49 | 114 | 15 | 114 | 18 | 173 |
+| 30d | 2026-08-21 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 5 | 0 | 1 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 11 | 1 | 5 | 0 |
+| last180d | 2026-03-24 | 21 | 40 | 15 | 19 | 14 | 56 |
+| 360d | 2025-09-25 | 29 | 84 | 15 | 67 | 17 | 115 |
+| last720d | 2024-09-30 | 49 | 114 | 15 | 114 | 18 | 173 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for grok-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:14:53Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:19:00Z._
