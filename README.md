@@ -37,7 +37,7 @@ Total: **28,458** lines of code across **156** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,479 · **Forks**: 423 · **Open issues**: 132 · **Contributors**: 21
+- **Stars**: 3,481 · **Forks**: 422 · **Open issues**: 132 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **28,458** lines of code across **156** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 0 | 0 | 5 | 0 | 1 | 0 |
-| 90d | 2026-06-23 | 0 | 0 | 11 | 1 | 3 | 0 |
-| last180d | 2026-03-25 | 20 | 36 | 15 | 17 | 14 | 40 |
-| 360d | 2025-09-26 | 29 | 83 | 15 | 66 | 17 | 110 |
-| last720d | 2024-10-01 | 49 | 114 | 15 | 114 | 18 | 173 |
+| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 0 | 0 | 5 | 0 | 1 | 0 |
+| 90d | 2026-06-24 | 0 | 0 | 11 | 1 | 3 | 0 |
+| last180d | 2026-03-26 | 19 | 30 | 15 | 17 | 12 | 40 |
+| 360d | 2025-09-27 | 28 | 83 | 15 | 66 | 17 | 110 |
+| last720d | 2024-10-02 | 49 | 114 | 15 | 114 | 18 | 173 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for grok-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:17:47Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:14:07Z._
