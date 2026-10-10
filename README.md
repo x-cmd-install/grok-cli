@@ -47,12 +47,12 @@ Total: **28,458** lines of code across **156** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-08-10 | 0 | 0 | 6 | 0 | 1 | 0 |
-| 90d | 2026-07-11 | 0 | 0 | 9 | 0 | 3 | 0 |
-| last180d | 2026-04-12 | 5 | 15 | 16 | 9 | 8 | 17 |
-| 360d | 2025-10-14 | 27 | 82 | 17 | 60 | 17 | 110 |
-| last720d | 2024-10-19 | 49 | 114 | 17 | 114 | 18 | 173 |
+| 30d | 2026-09-10 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-08-11 | 0 | 0 | 6 | 0 | 1 | 0 |
+| 90d | 2026-07-12 | 0 | 0 | 9 | 0 | 3 | 0 |
+| last180d | 2026-04-13 | 5 | 14 | 16 | 9 | 8 | 17 |
+| 360d | 2025-10-15 | 27 | 81 | 17 | 60 | 17 | 110 |
+| last720d | 2024-10-20 | 49 | 114 | 17 | 114 | 18 | 173 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for grok-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T07:07:37Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:50:19Z._
