@@ -37,7 +37,7 @@ Total: **28,458** lines of code across **156** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,497 · **Forks**: 427 · **Open issues**: 132 · **Contributors**: 21
+- **Stars**: 3,498 · **Forks**: 427 · **Open issues**: 132 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **28,458** lines of code across **156** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 7 | 0 | 1 | 0 |
-| last180d | 2026-04-25 | 2 | 4 | 15 | 4 | 6 | 7 |
-| 360d | 2025-10-27 | 27 | 80 | 17 | 58 | 17 | 110 |
-| last720d | 2024-11-01 | 49 | 114 | 17 | 114 | 18 | 173 |
+| 30d | 2026-09-23 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 4 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 7 | 0 | 1 | 0 |
+| last180d | 2026-04-26 | 2 | 4 | 15 | 4 | 6 | 7 |
+| 360d | 2025-10-28 | 27 | 80 | 17 | 58 | 17 | 110 |
+| last720d | 2024-11-02 | 49 | 114 | 17 | 114 | 18 | 173 |
 
 ## Release assets
 
@@ -63,6 +63,14 @@ Total: **28,458** lines of code across **156** files in the top 5 languages.
 | [grok-linux-x64](https://github.com/superagent-ai/grok-cli/releases/download/grok-dev@1.1.7/grok-linux-x64) | 111.6 MiB | `other` |
 | [grok-windows-x64.exe](https://github.com/superagent-ai/grok-cli/releases/download/grok-dev@1.1.7/grok-windows-x64.exe) | 123.8 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **4** distros on [repology.org](https://repology.org/project/grok-cli). **1** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.0.33` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for grok-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `grok-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -72,4 +80,4 @@ Install metadata for grok-cli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:41:40Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:46:40Z._
