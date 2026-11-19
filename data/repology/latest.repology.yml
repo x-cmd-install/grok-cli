@@ -36,7 +36,7 @@
   subrepo: main
   binname: grok-cli
   visiblename: grok-cli
-  version: 1.0.88
+  version: 1.0.89
   origversion: null
   status: newest
   licenses:
